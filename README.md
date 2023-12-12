@@ -10,10 +10,10 @@ Jesse Martinez
 October 12, 2023
 
 # Basic Instructions:
-Compile the program using a C++ compiler (e.g., g++).
-Run the compiled executable in the console.
-Follow on-screen instructions to play Blackjack.
-Input 'y' to hit or 'n' to stand when prompted.
-The program calculates winning probabilities based on a basic heuristic.
-After the player's turn, the dealer's actions are simulated.
-The winner is determined, and the game outcome is displayed.
+1. Compile the program using a C++ compiler (e.g., g++).
+2. Run the compiled executable in the console.
+3. Follow on-screen instructions to play Blackjack.
+4. Input 'y' to hit or 'n' to stand when prompted.
+5. The program calculates winning probabilities based on a basic heuristic.
+6. After the player's turn, the dealer's actions are simulated.
+7. The winner is determined, and the game outcome is displayed.
