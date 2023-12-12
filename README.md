@@ -1,2 +1,2 @@
 # BLACKJACK
-This C++ program simulates a simplified version of the classic casino card game, Blackjack.
+This C++ program simulates a simplified version of the classic casino card game, Blackjack. Developed by Jesse Martinez, this console-based application allows users to play Blackjack against a computerized dealer. The program incorporates fundamental Blackjack rules, including card dealing, player decisions (hit or stand), and determining the winner based on hand values. It also includes a basic heuristic to estimate winning probabilities for the player.
